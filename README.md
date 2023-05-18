@@ -3,7 +3,7 @@
 <img src="https://www.careerguide.com/career/wp-content/uploads/2021/01/coding_gif.gif" width="100%" height="400px" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patiljatin&label=Profile%20views&color=0e75b6&style=flat" alt="patiljatin" /> </p>
 
-- 🔭 I’m currently working on **ADmin Dashboard**
+- 🔭 I’m currently working on **Admin Dashboard**
 
 - 🌱 I’m currently learning **Nextjs, Prisma**
 
